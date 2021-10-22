@@ -1,0 +1,43 @@
+h1{
+    color:black;
+    font-family: 'Pompiere', cursive;
+    margin-top:0;
+    font-size:3.0em;
+    text-align:center;
+    text-decoration: underline;
+    letter-spacing:0.02em;
+    padding:5%;
+  }
+ .container{
+  border-width:1000px;
+  overflow-x: hidden;
+ }
+  #myunits{
+    color:white;
+    font-size:1.5em;
+    font-family: 'Delius Swash Caps', cursive;
+    margin: 0;
+    bottom: 0;
+    background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1.25em;
+  }
+   h4{
+    font-family: 'Delius Swash Caps', cursive;
+    color:purple;
+    margin-left:1.875em;
+      font-size:2.0em;
+     
+    #nav{
+    font-size:1.5em;
+    color:#F0FFFF;
+    background-color: #151515;
+    padding: 0.935em 1em;
+    text-align: center;
+    text-decoration: uppercase;
+    display: inline-block;
+    margin: 0.25em 0.125em;
+    cursor: pointer;
+    border-radius:0.75em;
+  }
+  
